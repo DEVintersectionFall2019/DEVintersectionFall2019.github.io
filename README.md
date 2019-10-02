@@ -1,1 +1,2 @@
-# DEVintersectionFall2019.github.io
+# devintersection.github.io
+Organzation Web Site
