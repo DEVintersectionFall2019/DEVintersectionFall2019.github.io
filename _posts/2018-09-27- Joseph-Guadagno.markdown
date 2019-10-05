@@ -10,5 +10,4 @@ For 20 years or so I have been in Software Development. During that time I have 
 
 Here are links to his presentation material:
 
-- [WHAT'S HAPPENING IN MY APP, APPLICATION INSIGHTS?](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Whats%20Happening%20in%20my%20App-App%20Insights.pptx)
-- [WRITE ONCE, RUN ANYWHERE!](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Write%20Once%2C%20Run%20Everywhere%20-%20Dark.pptx)
+- 
