@@ -9,3 +9,5 @@ Kendra Havens is a program manager at Microsoft on the .NET and Visual Studio te
 
 Here are links to her presentation material:
 
+- [Improve your testing with Visual Studio 2019](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/DevIntersection_2019_Testing%20Vegas.pptx)
+- [Increase your .NET Productivity with Visual Studio 2019](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/DevIntersection2019_Productivity.pptx)
