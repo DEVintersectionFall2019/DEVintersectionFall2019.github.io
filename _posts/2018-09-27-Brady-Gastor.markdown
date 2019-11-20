@@ -9,3 +9,4 @@ Brady Gaster is a senior program manager in the ASP.NET team at Microsoft, where
 
 Here are links to his presentation material:
 
+- [SignalR: Real-time for All the Things](https://github.com/bradygaster/DEVIntersection2019-SignalR/)
