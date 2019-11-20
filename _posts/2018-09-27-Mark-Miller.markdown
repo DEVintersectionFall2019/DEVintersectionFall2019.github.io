@@ -10,3 +10,5 @@ Mark Miller is a five-year C# Microsoft MVP alumnus, with strong expertise in de
 
 Here are links to his presentation materials:
 
+- [Science of Great UI, Parts 1, 2 and 3](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Mark%20Miller%20-%20Science%20of%20Great%20UI%20-%20Slide%20Notes.zip)
+
