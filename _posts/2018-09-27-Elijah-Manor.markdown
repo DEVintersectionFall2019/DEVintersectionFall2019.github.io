@@ -9,4 +9,5 @@ Elijah Manor is a Christian and a family man. He works at LeanKit (@leankit) as 
 
 Here are links to his presentation material:
 
-
+- [Getting Started with React and Hooks]( https://react-intro-hooks.now.sh/)
+- [Have Fun and Be Productive on the Command Line](https://github.com/elijahmanor/cmd-fun)
